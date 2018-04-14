@@ -1,7 +1,7 @@
 ---
 title: 字符编码
 data: 2015‎-‎12‎-‎30‎ ‏‎23:27:47
-tags: 
+tags: [基础]
 grammar_cjkRuby: true
 ---
 
@@ -198,21 +198,21 @@ https://en.wikipedia.org/wiki/UTF-16#U.2B10000_to_U.2B10FFFF
 https://en.wikipedia.org/wiki/UTF-8
 
 
-  [1]: 字符编码/1.jpg "1.jpg"
-  [2]: 字符编码/2.jpg "2.jpg"
-  [3]: 字符编码/3.jpg "3.jpg"
-  [4]: 字符编码/4.jpg "4.jpg"
-  [5]: 字符编码/5.jpg "5.jpg"
-  [6]: 字符编码/6.jpg "6.jpg"
-  [7]: 字符编码/7.jpg "7.jpg"
-  [8]: 字符编码/8.jpg "8.jpg"
-  [9]: 字符编码/9.jpg "9.jpg"
-  [10]: 字符编码/10.jpg "10.jpg"
-  [11]: 字符编码/11.jpg "11.jpg"
-  [12]: 字符编码/12.jpg "12.jpg"
-  [13]: 字符编码/13.jpg "13.jpg"
-  [14]: 字符编码/14.jpg "14.jpg"
-  [15]: 字符编码/15.jpg "15.jpg"
-  [16]: 字符编码/16.jpg "16.jpg"
-  [17]: 字符编码/17.jpg "17.jpg"
-  [18]: 字符编码/18.jpg "18.jpg"
+  [1]: CharacterEncoding/1.jpg "1.jpg"
+  [2]: CharacterEncoding/2.jpg "2.jpg"
+  [3]: CharacterEncoding/3.jpg "3.jpg"
+  [4]: CharacterEncoding/4.jpg "4.jpg"
+  [5]: CharacterEncoding/5.jpg "5.jpg"
+  [6]: CharacterEncoding/6.jpg "6.jpg"
+  [7]: CharacterEncoding/7.jpg "7.jpg"
+  [8]: CharacterEncoding/8.jpg "8.jpg"
+  [9]: CharacterEncoding/9.jpg "9.jpg"
+  [10]: CharacterEncoding/10.jpg "10.jpg"
+  [11]: CharacterEncoding/11.jpg "11.jpg"
+  [12]: CharacterEncoding/12.jpg "12.jpg"
+  [13]: CharacterEncoding/13.jpg "13.jpg"
+  [14]: CharacterEncoding/14.jpg "14.jpg"
+  [15]: CharacterEncoding/15.jpg "15.jpg"
+  [16]: CharacterEncoding/16.jpg "16.jpg"
+  [17]: CharacterEncoding/17.jpg "17.jpg"
+  [18]: CharacterEncoding/18.jpg "18.jpg"
